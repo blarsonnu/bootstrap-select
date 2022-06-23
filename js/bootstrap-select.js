@@ -1198,7 +1198,7 @@
       }
 
       drop =
-        '<div class="dropdown bootstrap-select' + showTick + inputGroup + '">' +
+        '<div class="dropdown bootstrap-select' + showTick + inputGroup + '" role="combobox">' +
           '<button type="button" tabindex="-1" class="' +
             this.options.styleBase +
             ' dropdown-toggle" ' +
